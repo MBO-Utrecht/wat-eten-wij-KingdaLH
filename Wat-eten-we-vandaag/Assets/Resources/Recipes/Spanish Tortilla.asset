@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d8a6816b4dbb3c04781d1426eddcd3ec, type: 3}
-  m_Name: Recipe
+  m_Name: Spanish Tortilla
   m_EditorClassIdentifier: 
   name: Spanish Tortilla
   kitchen: 6
