@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8a6816b4dbb3c04781d1426eddcd3ec, type: 3}
+  m_Name: Black bean burgers
+  m_EditorClassIdentifier: 
+  name: Black bean burgers
+  kitchen: 4
+  ingredients:
+  - A red onion
+  - Tablespoon balsamic vinegar
+  - Fresh red chilli
+  - Spring onions
+  - Tin black beans
+  - Fresh breadcrumbs
+  - Lemon
+  - Extra virgin olive oil
+  - Tablespoons natural yoghurt
+  - Baby kale
+  - Rocket
+  - Olive oil
+  - Ripe beef tomato
+  - Mozzarella cheese
+  - Wholemeal buns
